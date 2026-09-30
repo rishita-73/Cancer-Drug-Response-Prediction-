@@ -145,4 +145,7 @@ This project demonstrates potential applications of machine learning in:
 - Biomarker research
 - Personalized treatment research
 
+## Note
+This project was replicated as part of hands-on learning and practice to understand the complete workflow of cancer drug response prediction using machine learning.
+
 
